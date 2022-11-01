@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Android%20Developer&fontSize=80&animation=fadeIn&fontAlignY=40&desc=wsi1212)
 
-# <div align="center">🛠️Tech Stacks
+# <div align="center">🛠️My Stacks
 <div align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
