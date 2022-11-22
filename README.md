@@ -7,8 +7,7 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   
-</div>
-</div>
+
 
 # <div align="center">❤️Me
 <div align="center">
@@ -17,8 +16,6 @@ align="center"
 href="https://www.instagram.com/wsiwsiwsi123/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wsiwsiwsi123/"/></a>
 <a href="mailto:wsiwsiwsi123@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wsiwsiwsi123@gmail.com"/>
 </a>
-
-</div>
-</div>
+<img src="https://github.com/wsi1212/wsi1212/blob/main/contributions.svg" />
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90)
