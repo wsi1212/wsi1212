@@ -18,9 +18,12 @@ href="https://www.instagram.com/wsiwsiwsi123/"><img src="https://img.shields.io/
 </a>
 <img src="https://github.com/wsi1212/wsi1212/blob/main/contributions.svg" />
 
- # <div align="center">⚓Most Lang & BOJ</div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsi1212&layout=compact)](https://github.com/wsi1212/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsi1212)](https://solved.ac/profile/doldory55)
+ # <div align="center">⚓Stats & BOJ</div>
 
+ <img width=50% src="https://github-readme-stats.vercel.app/api?username=wsi1212&show_icons=true">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsi1212)](https://solved.ac/profile/wsi1212)
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsi1212&theme=onedark&layout=compact&hide_border=true" alt="my github top langs" width=49% />
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90)
