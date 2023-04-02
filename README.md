@@ -27,3 +27,4 @@ href="https://www.instagram.com/wsiwsiwsi123/"><img src="https://img.shields.io/
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsi1212&theme=onedark&layout=compact&hide_border=true" alt="my github top langs" width=49% />
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90)
+ 
