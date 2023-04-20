@@ -25,5 +25,3 @@ href="https://www.instagram.com/wsiwsiwsi123/"><img src="https://img.shields.io/
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsi1212)](https://solved.ac/profile/wsi1212)
   
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90)
- 
