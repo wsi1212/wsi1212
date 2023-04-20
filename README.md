@@ -25,7 +25,5 @@ href="https://www.instagram.com/wsiwsiwsi123/"><img src="https://img.shields.io/
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsi1212)](https://solved.ac/profile/wsi1212)
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsi1212&theme=onedark&layout=compact&hide_border=true" alt="my github top langs" width=49% />
-  
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90)
  
