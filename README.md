@@ -19,9 +19,10 @@ href="https://www.instagram.com/wsiwsiwsi123/"><img src="https://img.shields.io/
 </a>
 
 
- # <div align="center">⚓Stats & BOJ</div>
+ # <div align="center">⚓Stats & BOJ & LeetCode</div>
 
  <img src="https://github-readme-stats.vercel.app/api?username=wsi1212&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></a>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsi1212)](https://solved.ac/profile/wsi1212)
   
+![LeetCode Stats](https://leetcard.jacoblin.cool/wsi1212?theme=unicorn&font=Almendra%20SC)
